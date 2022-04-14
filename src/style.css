@@ -1,0 +1,45 @@
+h1 {
+  color: indigo;
+  text-align: center;
+  margin: 40px auto;
+}
+h2 {
+  color: indigo;
+  text-align: center;
+  margin: 25px auto;
+}
+p {
+  font-family: "Hubballi", cursive;
+  font-size: 25px;
+  margin: 80px;
+}
+strong {
+  font-family: "Hubballi", cursive;
+  font-size: 25px;
+  margin: 60px;
+}
+ul {
+  list-style: none;
+  font-family: "Hubballi", cursive;
+  font-size: 22px;
+}
+.container {
+  margin-left: 80px;
+  margin-bottom: 200px;
+}
+.name {
+  text-align: center;
+  font-size: 15px;
+  font-family: "Hubballi", cursive;
+}
+body {
+  background-image: url("https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?size=626&ext=jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.contact {
+  text-align: center;
+}
+.contact:hover {
+  color: black;
+}
